@@ -51,6 +51,14 @@
 
 ![Xorg](https://github.com/bigtreetech/OctoBTT/raw/Wiki/Resource/3_4_xorg.jpeg "Xorg")
 ### 3.  Set the Console to boot in Pi mode (Negligible step)
+
+![raspiconfig](https://github.com/bigtreetech/OctoBTT/raw/Wiki/Resource/raspiconfig/Command.jpeg "raspiconfig")
+
+![raspiconfig](https://github.com/bigtreetech/OctoBTT/raw/Wiki/Resource/raspiconfig/1.jpeg "raspiconfig")
+
+![raspiconfig](https://github.com/bigtreetech/OctoBTT/raw/Wiki/Resource/raspiconfig/2.jpeg "raspiconfig")
+
+![raspiconfig](https://github.com/bigtreetech/OctoBTT/raw/Wiki/Resource/raspiconfig/3.jpeg "raspiconfig")
 ### 4.  In rc.local, start startup for X service Settings
 * Add the shell line(“su -l pi -c startx”) before "exit 0"
 * ”rc.local“ is in the etc folder in the system directory
