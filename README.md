@@ -17,16 +17,20 @@
 ![ConfigWPA](https://github.com/bigtreetech/OctoBTT/raw/Wiki/Resource/Ready/ConfigWPA.png "ConfigWPA")
 * SSH your PI on your computer for further action
 > After Pi boot you can get the IP address of Pi from the screen
+
 ![RaspiShowIP](https://github.com/bigtreetech/OctoBTT/raw/Wiki/Resource/Login/RaspiShowIP.jpeg "RaspiShowIP")
 > If you connect with console
+
 ![ConfigConsole](https://github.com/bigtreetech/OctoBTT/raw/Wiki/Resource/Login/ConfigConsole.png "ConfigConsole")
 
 ![ConsoleShow](https://github.com/bigtreetech/OctoBTT/raw/Wiki/Resource/Login/ConsoleShow.png "ConsoleShow")
 > If you connect with terminal
+
 ![ConfigTermius](https://github.com/bigtreetech/OctoBTT/raw/Wiki/Resource/Login/ConfigTermius.jpeg "ConfigTermius")
 
 ![TermiusShow](https://github.com/bigtreetech/OctoBTT/raw/Wiki/Resource/Login/TermiusShow.jpeg "TermiusShow")
 > update and upgrade
+
 ![Update](https://github.com/bigtreetech/OctoBTT/raw/Wiki/Resource/1_Update.jpeg "Update")
 
 ![Upgrade](https://github.com/bigtreetech/OctoBTT/raw/Wiki/Resource/2_1_Upgrade.jpeg "Upgrade")
